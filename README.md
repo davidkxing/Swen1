@@ -43,7 +43,7 @@ Save battle log in Folder battlelog
 	Unit Test: ~5h
 
 #### Plan
-	UML Diagram and Database: ~5h(mostly research)
+	Database: ~5h
 
 #### Coding
 	Server: ~12h
