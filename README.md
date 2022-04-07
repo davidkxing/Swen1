@@ -1,21 +1,21 @@
-#MTCG Project
+# MTCG Project
 This HTTP/REST-based server is built to be a platform for trading and battling with and
 against each other in a magical card-game world. 
 
-##Unit Test
+## Unit Test
 
-###Server
-####requestInfoTest
+### Server
+#### requestInfoTest
 -testConstructor()
 
-###GameLogic
-####cardHandlerTest
+### GameLogic
+#### cardHandlerTest
 - getCardsFailTest()
 - getDeckFailTest()
 - setDeckFailTestNotEnoughCards()
 - setDeckFailTestNotYourCards()
 
-####shopHandlerTest
+#### shopHandlerTest
 - buyPackageFailTest()
 - tradeFailTestNotExisting()
 - tradeFailTestTradeYourself()
@@ -23,7 +23,7 @@ against each other in a magical card-game world.
 - tradeFailTestRequirementsNotMet()
 - getTradesFailTest()
 
-####userHandlerTest
+#### userHandlerTest
 - createDatabase()
 - createUserFailTest()
 - loginUserSuccessTest()
@@ -34,5 +34,10 @@ against each other in a magical card-game world.
 - getScoreFailTest()
 - getBattleLogsFailTestEmptyReply()
 - getBattleLogsFailNoToken()
+
+### Unique Feature
+Save battle log in Folder battlelog
+
+
 
 [MTCG on GitHub] -> https://github.com/davidkxing/Swen1
