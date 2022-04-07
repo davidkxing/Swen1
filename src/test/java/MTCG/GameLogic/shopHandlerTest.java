@@ -36,7 +36,7 @@ class shopHandlerTest {
     }
 
     @Test
-    void tradeFailTestExistiertNicht() throws SQLException {
+    void tradeFailTestNotExisting() throws SQLException {
         requestInfo requestInfoUser = new requestInfo("POST", "HTTP/1.1", "/tradings/1", """
                 POST /tradings/1 HTTP/1.1\r
                 Host: localhost:10001\r
