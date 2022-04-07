@@ -46,8 +46,8 @@ Save battle log in Folder battlelog
 	UML Diagram and Database: ~5h(mostly research)
 
 #### Coding
-	Server: ~14h
-	Datahandling including database creation: ~22h
-	Battlelogic: 35 - 50h
+	Server: ~12h
+	Datahandling including database creation: ~16h
+	Battlelogic: 25 - 35h
 
 [MTCG on GitHub] -> https://github.com/davidkxing/Swen1
