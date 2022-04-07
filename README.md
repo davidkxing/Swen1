@@ -10,30 +10,30 @@ against each other in a magical card-game world.
 
 ### GameLogic
 #### cardHandlerTest
-- getCardsFailTest()
-- getDeckFailTest()
-- setDeckFailTestNotEnoughCards()
-- setDeckFailTestNotYourCards()
+	getCardsFailTest()
+	getDeckFailTest()
+	setDeckFailTestNotEnoughCards()
+	setDeckFailTestNotYourCards()
 
 #### shopHandlerTest
-- buyPackageFailTest()
-- tradeFailTestNotExisting()
-- tradeFailTestTradeYourself()
-- tradeFailTestNotYourCard()
-- tradeFailTestRequirementsNotMet()
-- getTradesFailTest()
+	buyPackageFailTest()
+	tradeFailTestNotExisting()
+	tradeFailTestTradeYourself()
+	tradeFailTestNotYourCard()
+	tradeFailTestRequirementsNotMet()
+	getTradesFailTest()
 
 #### userHandlerTest
-	- createDatabase()
-- createUserFailTest()
-- loginUserSuccessTest()
-- loginUserFailTest()
-- getUserDataFailTest()
-- setUserDataFailTest()
-- getStatsFailTest()
-- getScoreFailTest()
-- getBattleLogsFailTestEmptyReply()
-- getBattleLogsFailNoToken()
+	createDatabase()
+	createUserFailTest()
+	loginUserSuccessTest()
+	loginUserFailTest()
+	getUserDataFailTest()
+	setUserDataFailTest()
+	getStatsFailTest()
+	getScoreFailTest()
+	getBattleLogsFailTestEmptyReply()
+	getBattleLogsFailNoToken()
 
 ### Unique Feature
 Save battle log in Folder battlelog
