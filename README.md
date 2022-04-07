@@ -6,7 +6,7 @@ against each other in a magical card-game world.
 
 ### Server
 #### requestInfoTest
--testConstructor()
+	testConstructor()
 
 ### GameLogic
 #### cardHandlerTest
@@ -38,6 +38,16 @@ against each other in a magical card-game world.
 ### Unique Feature
 Save battle log in Folder battlelog
 
+### Time Documentation
+#### Test
+	Unit Test: ~5h
 
+#### Plan
+	UML Diagram and Database: ~5h(mostly research)
+
+#### Coding
+	Server: ~14h
+	Datahandling including database creation: ~22h
+	Battlelogic: 35 - 50h
 
 [MTCG on GitHub] -> https://github.com/davidkxing/Swen1
