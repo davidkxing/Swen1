@@ -24,7 +24,7 @@ against each other in a magical card-game world.
 - getTradesFailTest()
 
 #### userHandlerTest
-- createDatabase()
+	- createDatabase()
 - createUserFailTest()
 - loginUserSuccessTest()
 - loginUserFailTest()
